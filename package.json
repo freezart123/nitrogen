@@ -1,0 +1,16 @@
+{
+  "name": "giftgen",
+  "version": "1.0.0",
+  "description": "nitrogen",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "generate-password": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
